@@ -1,5 +1,7 @@
 # Student Management System
 
+![Project Image](project_img.png)
+
 Welcome to the Student Management System project! This project is a student management system that utilizes PyQt6 for the frontend interface and MySQL for the backend database. The system provides full CRUD (Create, Read, Update, Delete) operations on student records. The project is focused mainly at Object-Oriented Programming (OOP) approach.
 
 ## Features
